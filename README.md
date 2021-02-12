@@ -1,5 +1,5 @@
 # pycooks
-collection of python help files
+collection of python help files. some of these are useful for creating a virtual assistant using python.
 
 ## json explorer
 easily find value of key in json (dictonary in python)
@@ -13,3 +13,36 @@ data = {'coord': {'lon': 81.28, 'lat': 21.18}, 'weather': [{'id': 804, 'main': '
 print(get(data,'temp'))
 print(getaddr(data,'temp'))
 ```
+
+# news.py
+
+uses newsapi to get latest news headlines. API key is required.
+
+# open.py
+
+python program to open any software in windows computer(uses win32api so it works only on windows) .
+If a program is not found it searches in all drives and at all file locations.
+
+# noti.py
+
+program to create a notification on desktop , uses plyer module.
+
+# process_check.py
+
+program to check if a process is currently running in the background(windows) and how to kill a process progamatacally. uses wmi and subprocess modules.
+
+# quote.py
+
+printing a random quote using quotes module.
+
+# score.py
+
+get latest cricket scores using pycricbuzz library.
+
+# ss.py
+
+taking a screenshot using python code. uses pyscreenshot library. there are also alternatives available for the same work but pyscreenshot does it in the minimum code.
+
+# weather.py
+
+getting weather data of a city using openweathermap api. api key is required.
