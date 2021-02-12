@@ -46,7 +46,4 @@ def get_target_address( data , target ):
                 return k
             attr_stack.pop()
 if __name__ == "__main__":
-    data = eval(input())
-    print(get(data,'temp'))
-    print(getaddr(data,'temp'))
-    print(data['main']['temp'])
+    pass
