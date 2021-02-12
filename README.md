@@ -3,7 +3,11 @@ collection of python help files
 
 ##json explorer
 
+easily find value of key in json (dictonary in python)
+
 ###example code
+
+here is an example code
 
 ```python
 #openweathermap this kind of json data
