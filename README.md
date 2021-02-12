@@ -1,10 +1,10 @@
 # pycooks
 collection of python help files
 
-##json explorer
+## json explorer
 easily find value of key in json (dictonary in python)
 
-###example code
+### example code
 here is an example code
 
 ```python
