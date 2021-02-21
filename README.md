@@ -47,3 +47,7 @@ taking a screenshot using python code. uses pyscreenshot library. there are also
 # weather.py
 
 getting weather data of a city using openweathermap api. api key is required.
+
+# d_finder.py
+
+calculate distance between two location  based on there latitude and longitude ( remember its not the travel distance , travel distance >= distance given by this program ).
